@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+.job {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  padding: 20px 10px;
+  align-items: center;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
